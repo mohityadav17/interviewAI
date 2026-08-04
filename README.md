@@ -4,6 +4,12 @@ InterviewAI is an AI-powered mock interview platform that helps users prepare fo
 
 ---
 
+## 🚀 Live Demo
+
+🌐 **Try InterviewAI:** https://interviewai-client-cnce.onrender.com/
+
+---
+
 ## ✨ Features
 
 - 🔐 Secure user authentication using JWT
